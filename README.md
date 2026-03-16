@@ -3,11 +3,11 @@
 # 🎯Objetivo
 Que los estudiantes apliquen conceptos de:
 
-* **Programación orientada a objetos
-* **Clases y objetos
-* **Menús en consola
-* **Métodos
-* **Listas y validaciones
+* Programación orientada a objetos
+* Clases y objetos
+* Menús en consola
+* Métodos
+* Listas y validaciones
 * **Conexión a base de datos
 * **Operaciones CRUD:
     * **Crear
