@@ -8,13 +8,13 @@ Que los estudiantes apliquen conceptos de:
 * Menús en consola
 * Métodos
 * Listas y validaciones
-* **Conexión a base de datos
-* **Operaciones CRUD:
-    * **Crear
-    * **Listar
-    * **Buscar
-    * **Actualizar
-    * **Eliminar
+* Conexión a base de datos
+* Operaciones CRUD:
+    * Crear
+    * Listar
+    * Buscar
+    * Actualizar
+    * Eliminar
 
 ## Grupo 6 👨‍💻
 * **María Guadalupe Canjura Díaz:** guadalupe-a11y 
