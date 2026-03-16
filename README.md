@@ -1,5 +1,20 @@
 # Programacion1Asincrona9-G1-2026-
 
+# 🎯Objetivo
+Que los estudiantes apliquen conceptos de:
+
+* **Programación orientada a objetos
+* **Clases y objetos
+* **Menús en consola
+* **Métodos
+* **Listas y validaciones
+* **Conexión a base de datos
+* **Operaciones CRUD:
+    * **Crear
+    * **Listar
+    * **Buscar
+    * **Actualizar
+    * **Eliminar
 
 ## Grupo 6 👨‍💻
 * **María Guadalupe Canjura Díaz:** guadalupe-a11y 
