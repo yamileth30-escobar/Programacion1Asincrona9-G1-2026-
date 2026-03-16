@@ -1,0 +1,7 @@
+C:\Users\MINEDUCYT\source\repos\Programacion1Asincrona9-G1-2026\RegistroUsurios\bin\Debug\RegistroUsurios.exe.config
+C:\Users\MINEDUCYT\source\repos\Programacion1Asincrona9-G1-2026\RegistroUsurios\bin\Debug\RegistroUsurios.exe
+C:\Users\MINEDUCYT\source\repos\Programacion1Asincrona9-G1-2026\RegistroUsurios\bin\Debug\RegistroUsurios.pdb
+C:\Users\MINEDUCYT\source\repos\Programacion1Asincrona9-G1-2026\RegistroUsurios\obj\Debug\RegistroUsurios.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\Programacion1Asincrona9-G1-2026\RegistroUsurios\obj\Debug\RegistroUsurios.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\Programacion1Asincrona9-G1-2026\RegistroUsurios\obj\Debug\RegistroUsurios.exe
+C:\Users\MINEDUCYT\source\repos\Programacion1Asincrona9-G1-2026\RegistroUsurios\obj\Debug\RegistroUsurios.pdb
